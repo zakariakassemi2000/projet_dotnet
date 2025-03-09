@@ -1,0 +1,121 @@
+/* wwwroot/css/calendar.css */
+.calendar-container {
+    font-family: Arial, sans-serif;
+    background-color: #0a0213;
+    color: white;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.month-selector {
+    display: flex;
+    align-items: center;
+}
+
+    .month-selector button {
+        background: none;
+        border: none;
+        color: white;
+        font-size: 18px;
+        cursor: pointer;
+        margin: 0 10px;
+    }
+
+.new-event {
+    background-color: #17a2b8;
+    border: none;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.weekdays {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-gap: 2px;
+}
+
+.day {
+    padding: 10px;
+    min-height: 80px;
+    border: 1px solid #3a3a3a;
+    position: relative;
+}
+
+    .day.empty {
+        background-color: #2a2a2a;
+    }
+
+.day-number {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+    font-size: 14px;
+}
+
+.today {
+    background-color: rgba(44, 162, 184, 0.2);
+}
+
+.task-event {
+    background-color: rgba(3, 162, 184, 0.2);
+    border-left: 3px solid #17a2b8;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 3px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.task-time {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 3px;
+}
+
+.calendar-footer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.calendar-legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.legend-item {
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: #ff0000;
+    font-size: 12px;
+}
+
+.calendar-complete {
+    color:aliceblue;
+    text-decoration:none;
+    padding: 5px 10px;
+    border-radius: 15px;
+    background-color: #ff0000;
+    font-size: 12px;
+}

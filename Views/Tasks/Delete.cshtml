@@ -1,0 +1,35 @@
+@model TodoTask
+
+<h1>Supprimer la tâche</h1>
+
+<div class="alert alert-danger">
+    <h3>Êtes-vous sûr de vouloir supprimer cette tâche ?</h3>
+</div>
+
+<div class="task-details">
+    <dl class="row">
+        <dt class="col-sm-3">Titre</dt>
+        <dd class="col-sm-9">@Model.Title</dd>
+
+        <dt class="col-sm-3">Description</dt>
+        <dd class="col-sm-9">@Model.Description</dd>
+
+        <dt class="col-sm-3">Créée le</dt>
+        <dd class="col-sm-9">@Model.CreatedAt.ToString("dd/MM/yyyy HH:mm")</dd>
+
+        @if (Model.DueDate.HasValue)
+        {
+        <dt class="col-sm-3">Date d'échéance</dt>
+        <dd class="col-sm-9">@Model.DueDate.Value.ToString("dd/MM/yyyy")</dd>
+        }
+
+        <dt class="col-sm-3">Statut</dt>
+        <dd class="col-sm-9">@(Model.IsCompleted ? "Terminée" : "En cours")</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Supprimer" class="btn btn-danger" />
+        <a asp-action="Index" class="btn btn-secondary">Retour à la liste</a>
+    </form>
+</div>

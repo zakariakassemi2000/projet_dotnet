@@ -1,0 +1,39 @@
+﻿@model IEnumerable<TaskManager.Models.TodoTask>
+
+<div class="calendar-container">
+    <div class="calendar-header">
+        <div class="month-selector">
+            <button class="prev-month">&lt;</button>
+            <h2 id="current-month">@DateTime.Now.ToString("MMMM yyyy", new System.Globalization.CultureInfo("fr-FR"))</h2>
+            <button class="next-month">&gt;</button>
+        </div>
+        <a href="@Url.Action("Create", "Tasks")" class="new-event">Nouvel événement</a>
+    </div>
+
+    <div class="calendar-grid">
+        <div class="weekdays">
+            <div>Lu</div>
+            <div>Ma</div>
+            <div>Me</div>
+            <div>Je</div>
+            <div>Ve</div>
+            <div>Sa</div>
+            <div>Di</div>
+        </div>
+        <div id="calendar-days" class="days">
+            <!-- Généré dynamiquement par JavaScript -->
+        </div>
+    </div>
+
+    <div class="calendar-footer">
+        <div class="calendar-legend">
+            <span class="legend-item">Événements de site</span>
+            <span class="legend-item">Événements de catégorie</span>
+            <span class="legend-item">Événements de cours</span>
+            <span class="legend-item">Événements de groupe</span>
+            <span class="legend-item">Événements privés</span>
+            <span class="legend-item">Autre</span>
+        </div>
+        <a href="@Url.Action("Index", "Tasks")" class="calendar-complete">Liste complète</a>
+    </div>
+</div>

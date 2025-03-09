@@ -1,0 +1,27 @@
+@model IEnumerable<TaskManager.Models.TodoTask>
+    @{
+    ViewData["Title"] = "Calendrier des tâches";
+    }
+
+
+
+
+<center>
+    <h1 class="mb-4 text-primary fw-bold">Calendrier des tâches</h1>
+
+    <partial name="_Calendar" model="Model" />
+
+    @section Scripts {
+        <script src="~/js/calendar.js"></script>
+        <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Convertir les dates au format JSON et initialiser le calendrier
+            const tasks = @Html.Raw(Json.Serialize(Model.Select(t => new {
+                id = t.Id,
+                title = t.Title,
+                dueDate = t.DueDate
+            })));
+            initializeTasks(tasks);
+        });
+        </script>
+    }
