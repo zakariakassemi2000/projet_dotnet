@@ -3,38 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -43,8 +11,40 @@
       "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:wwwroot\\css\\calendar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\_calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\tasks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|c:\\users\\zakar\\source\\repos\\projet_dotnet\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CE52ACC-D918-4053-A805-E4E6A5F1CAAB}|projet_dotnet.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Tasks\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Tasks\\Edit.cshtml",
@@ -78,12 +78,11 @@
               "RelativeToolTip": "Views\\Tasks\\Edit.cshtml",
               "ViewState": "AgIAACAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T21:54:53.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T21:54:53.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -91,12 +90,11 @@
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T21:13:18.344Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T21:13:18.344Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -104,25 +102,24 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T21:08:59.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T21:08:59.616Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "TasksController.cs",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Controllers\\TasksController.cs",
               "RelativeDocumentMoniker": "Controllers\\TasksController.cs",
               "ToolTip": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Controllers\\TasksController.cs",
               "RelativeToolTip": "Controllers\\TasksController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAD8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T20:37:32.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -130,12 +127,11 @@
               "RelativeToolTip": "wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-09T20:32:16.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T20:32:16.336Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "calendar.css",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\wwwroot\\css\\calendar.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\calendar.css",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "wwwroot\\css\\calendar.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-09T19:51:14.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:51:14.207Z"
             },
             {
               "$type": "Document",
@@ -156,12 +151,11 @@
               "RelativeToolTip": "Views\\Tasks\\_Calendar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T19:49:31.357Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:49:31.357Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Calendar.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Tasks\\Calendar.cshtml",
               "RelativeDocumentMoniker": "Views\\Tasks\\Calendar.cshtml",
@@ -169,12 +163,11 @@
               "RelativeToolTip": "Views\\Tasks\\Calendar.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T19:49:17.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:49:17.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Tasks\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Tasks\\Create.cshtml",
@@ -182,25 +175,23 @@
               "RelativeToolTip": "Views\\Tasks\\Create.cshtml",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T19:45:02.194Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:45:02.194Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Tasks\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Tasks\\Index.cshtml",
               "ToolTip": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Tasks\\Index.cshtml",
               "RelativeToolTip": "Views\\Tasks\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T19:44:02.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:44:02.717Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\zakar\\source\\repos\\projet_dotnet\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T19:43:40.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:43:40.625Z"
             }
           ]
         }
